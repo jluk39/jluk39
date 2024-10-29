@@ -1,4 +1,4 @@
-## 🌟 Juan Manuel Lukaszevicz 🌟
+## 🌟 Juan Manuel Lukaszewicz 🌟
 
 **Analista de Sistemas en Formación**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Lukaszevicz-blue)](https://linkedin.com/in/juanlukaszewicz)  
