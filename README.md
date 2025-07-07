@@ -53,7 +53,7 @@ I am a Systems Analyst student with **over four years of remote technical suppor
 ---
 ### 💻 Lang Statics | Estadísticas de lenguajes
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jluk39&layout=compact)
+![Top Langs](https://jluk39.vercel.app/api/top-langs/?username=jluk39&layout=compact)
 
 ---
 
