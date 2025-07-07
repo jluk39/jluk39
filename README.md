@@ -51,6 +51,11 @@ I am a Systems Analyst student with **over four years of remote technical suppor
 | Virtualization (VMware, Docker) | Customer Service            |
 
 ---
+### 💻 Lang Statics | Estadísticas de lenguajes
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jluk39&layout=compact)
+
+---
 
 ### 🚀 Let's Connect | ¡Conectemos!
 
